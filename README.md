@@ -1,8 +1,11 @@
 # Recuperación estratégica de sistemas complejos con daño
 
-**Tesis de pregrado en Física - Universidad Nacional de Colombia** 
+**Tesis de pregrado en Física - Universidad Nacional de Colombia**  
+
 **Autora: Angie Antivar González**  
-**Asesor: Alejandro Pérez Riascos**
+
+**Asesor: Alejandro Pérez Riascos**  
+
 **Fecha: Marzo de 2025**
 
 ## 📘 Resumen
@@ -13,7 +16,7 @@ El enfoque propuesto no solo permite restaurar la funcionalidad de sistemas dañ
 
 
 📄 Puedes leer el documento completo aquí:  
-[📥 Descargar tesis (PDF)](tesis_angie_antivar.pdf)
+[📥 Descargar tesis (PDF)](Tesis_Pregrado_Angie_Antivar.pdf)
 
 ## ⚠️ Sobre el código fuente
 
