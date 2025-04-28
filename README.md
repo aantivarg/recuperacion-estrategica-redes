@@ -18,7 +18,7 @@ El enfoque propuesto no solo permite restaurar la funcionalidad de sistemas dañ
 📄 Puedes leer el documento completo aquí:  
 [Tesis Angie Antivar (PDF)](Tesis_Pregrado_Angie_Antivar.pdf)
 
-## ⚠️ Sobre el código fuente
+## ⚠️ Sobre el código
 
 Este repositorio **no contiene el código** del algoritmo desarrollado en esta investigación, ya que está en proceso de publicación científica. Para más información, puedes contactarme.
 
