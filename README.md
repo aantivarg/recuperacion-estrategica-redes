@@ -24,7 +24,7 @@ La estrategia de recuperación propuesta fue implementada en la red de metro de 
 
 Durante la fase de recuperación, el algoritmo basado en el índice conjunto (P<sub>r</sub>(ε)) no solo permitió alcanzar nuevamente el nivel de funcionalidad original, sino que superó dicho valor, mejorando temporalmente el rendimiento del sistema. Este fenómeno, conocido como **antifragilidad**, indica que el sistema puede beneficiarse del daño al ser reparado de manera estratégica.
 
-![Evolución de la funcionalidad promedio](imagenes/toronto_recuperacion_promedio.png)
+![Evolución de la funcionalidad promedio](figuras/metro_toronto_recuperacion_promedio.png)
 
 *Figura 1: Evolución de la funcionalidad promedio ⟨F(T)⟩ de la red de metro de Toronto. El sistema se recupera completamente tras 20 pasos y alcanza un estado antifrágil, con funcionalidad superior al nivel original.*
 
@@ -32,7 +32,7 @@ Durante la fase de recuperación, el algoritmo basado en el índice conjunto (P<
 
 Se comparó la estrategia propuesta con dos métodos alternativos: uno que prioriza solo el daño (P<sub>D</sub>(ε)) y otro que prioriza solo la centralidad estructural (P<sub>C</sub>(ε)). El algoritmo con índice conjunto demostró ser más rápido y efectivo, alcanzando y superando la funcionalidad óptima en menos pasos, mientras que las estrategias alternativas no lograron esta mejora.
 
-![Comparación de estrategias](imagenes/toronto_comparacion_estrategias.png)
+![Comparación de estrategias](figuras/metro_toronto_comparacion_estrategias.png)
 
 *Figura 2: Comparación entre estrategias de recuperación. Solo el enfoque propuesto logra restaurar completamente el sistema y generar estados con funcionalidad mejorada o antifrágiles.*
 
