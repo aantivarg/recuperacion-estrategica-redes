@@ -22,7 +22,7 @@ El enfoque propuesto no solo permite restaurar la funcionalidad de sistemas dañ
 
 Este repositorio **no contiene el código** del algoritmo desarrollado en esta investigación, ya que está en proceso de publicación científica. Para más información, puedes contactarme.
 
-## 🧾 Licencia
+## 🧾 _Licencia_
 
 Este trabajo está licenciado bajo una **Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)**.  
 Consulta los términos aquí:  
